@@ -1,1 +1,1 @@
-# CPWII-ListaRandomica-Promise
+Exercicio Lista Randomica prática Promise
